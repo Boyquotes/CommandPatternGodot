@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://src/MoveCommand/MoveCommand.gd" type="Script" id=1]
+
+[node name="MoveCommand" type="Node" groups=["command"]]
+script = ExtResource( 1 )
